@@ -5,6 +5,6 @@ Obsah:
 kontaktné informácie, offline informácie, možnosť načítať všetky sociálne siete, ktoré súvisia s webom a samotný web. Vhodné pre akýkoľvek web - osobný, či firemný.
 
 Web: 
-https://kreativnatvorba.wordpress.com
+https://kreativnatvorba.wordpress.com/info-kontakt/
 
 
