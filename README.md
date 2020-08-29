@@ -1,4 +1,4 @@
-# creative-app
+# creative-app 
 Predloha mobilnej aplikácie (OS Android) k webovej stránke.
 
 Obsah: 
@@ -7,5 +7,5 @@ kontaktné informácie, offline informácie, možnosť načítať všetky sociá
 Web: 
 https://kreativnatvorba.wordpress.com
 
-
+Creatively.apk je aktualizácia mobilnej aplikácie creative.apk. Zmena obsahu: ikona aplikácie, názov aplikácie, zmena obsahu / údajov v aplikácii.
 
